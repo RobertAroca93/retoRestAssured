@@ -1,4 +1,4 @@
-package co.com.sofka.runners;
+package co.com.sofka.runners.loginSuccessfull;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;
@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         tags = ""
 
 )
-public class loginSuccessfull {
+public class loginSuccessfullTest {
 
 
 }
