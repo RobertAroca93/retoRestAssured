@@ -1,4 +1,4 @@
-package co.com.sofka.stepDefinitions;
+package co.com.sofka.stepDefinitions.login;
 
 import co.com.sofka.setUp.loginSuccessfull.loginSuccessfullSetUp;
 import io.cucumber.java.en.Given;

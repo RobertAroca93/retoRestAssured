@@ -8,5 +8,5 @@ yo como usuario de la pagina
 
   Scenario: realizar la consulta exitosa de una lista de usuarios
     Given dado que o requiero consultar la lista de usuarios
-    When me encuentro en el modulo de usuarios
-    Then el sistema me debe mostrar dicha lista
+    When hago la peticion
+    Then el sistema debe generar un codigo de respuesta
