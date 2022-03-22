@@ -1,4 +1,4 @@
-package co.com.sofka.runners.loginSuccessfull;
+package co.com.sofka.Runners.loginSuccessfull;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

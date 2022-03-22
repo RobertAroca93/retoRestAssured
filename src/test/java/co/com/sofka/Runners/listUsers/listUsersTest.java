@@ -1,4 +1,4 @@
-package co.com.sofka.runners.listUsers;
+package co.com.sofka.Runners.listUsers;
 
 import io.cucumber.junit.Cucumber;
 import io.cucumber.junit.CucumberOptions;

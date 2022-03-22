@@ -63,10 +63,4 @@ public class loginSuccessfullStepDefinition extends loginSuccessfullSetUp {
     }
 
 
-
-
-
-
-
-
 }

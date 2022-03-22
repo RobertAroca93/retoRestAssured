@@ -1,7 +1,6 @@
 package co.com.sofka.stepDefinitions.listUsers;
 
 import co.com.sofka.setUp.listUsers.listUsersSetUp;
-import co.com.sofka.stepDefinitions.login.loginSuccessfullStepDefinition;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
